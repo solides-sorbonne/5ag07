@@ -8,12 +8,15 @@ This repository collects the material to the class 5AG07
 * https://github.com/numerical-mooc/numerical-mooc/blob/master/lessons/00_getting_started/00_02_Installing_Jupyter.md
 * https://github.com/numerical-mooc/numerical-mooc/blob/master/lessons/00_getting_started/00_03_Intro_to_Jupyter_notebook.md
 * [**Python crash course**](http://nbviewer.ipython.org/github/barbagroup/AeroPython/blob/master/lessons/00_Lesson00_QuickPythonIntro.ipynb) by Lorena Barba
+
 * http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-0-Scientific-Computing-with-Python.ipynb
 * http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-1-Introduction-to-Python-Programming.ipynb
+* http://cs231n.github.io/python-numpy-tutorial/
 
 ### Further references
 * https://scipy-lectures.github.io
 * https://github.com/jrjohansson/scientific-python-lectures
+* http://cs231n.github.io/python-numpy-tutorial/
 * http://www.pefarrell.org/wp-content/uploads/2015/05/pythonfenics.pdf
 * [**Scientific computing with python**](https://github.com/jrjohansson/scientific-python-lectures)
 * [Matplotlib tutorial 1](http://matplotlib.org/users/pyplot_tutorial.html)
@@ -23,6 +26,9 @@ This repository collects the material to the class 5AG07
 * [Python doc on the web](https://wiki.python.org/moin/BeginnersGuide/Programmers)
 * [numpy](http://www.numpy.org/)
 * [python codying style](http://www.python.org/dev/peps/pep-0008/)
+* https://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html
+* https://learnxinyminutes.com/docs/python3/
+* http://jrjohansson.github.io/numericalpython.html
 
 ## FEM ##
 * http://antoinelegay.free.fr/Calcul_des_structures_par_elements_finis_Legay.pdf
@@ -37,7 +43,6 @@ This repository collects the material to the class 5AG07
        * [AppendixAB.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Appendices_AB.pdf)
        * [AppendixC.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Appendix_C.pdf)
 * [A collection of classical paper on FEM](http://www.ewp.rpi.edu/hartford/~ernesto/Su2014/Korea-PW/StressAnalysis/Readings/Other/ClassicPapers-FEM/)
-
 
 ## Continuum mechanics and elasticity ##
 * http://solidmechanics.org/ (e.g. http://solidmechanics.org/text/Chapter3_2/Chapter3_2.htm)
