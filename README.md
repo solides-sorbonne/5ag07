@@ -4,13 +4,20 @@ This repository collects the material to the class 5AG07
 # Useful references
 
 ## Python ##
+### Getting started
+* https://github.com/numerical-mooc/numerical-mooc/blob/master/lessons/00_getting_started/00_02_Installing_Jupyter.md
+* https://github.com/numerical-mooc/numerical-mooc/blob/master/lessons/00_getting_started/00_03_Intro_to_Jupyter_notebook.md
+* [**Python crash course**](http://nbviewer.ipython.org/github/barbagroup/AeroPython/blob/master/lessons/00_Lesson00_QuickPythonIntro.ipynb) by Lorena Barba
+* http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-0-Scientific-Computing-with-Python.ipynb
+* http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-1-Introduction-to-Python-Programming.ipynb
+
+### Further references
 * https://scipy-lectures.github.io
 * https://github.com/jrjohansson/scientific-python-lectures
 * http://www.pefarrell.org/wp-content/uploads/2015/05/pythonfenics.pdf
 * [**Scientific computing with python**](https://github.com/jrjohansson/scientific-python-lectures)
 * [Matplotlib tutorial 1](http://matplotlib.org/users/pyplot_tutorial.html)
 * [Matplotlib tutorial 2](http://www.loria.fr/~rougier/teaching/matplotlib/)
-* [**Python crash course**](http://nbviewer.ipython.org/github/barbagroup/AeroPython/blob/master/lessons/00_Lesson00_QuickPythonIntro.ipynb) by Lorena Barba
 * [Defining Functions in Python](http://nbviewer.ipython.org/urls/bitbucket.org/cfdpython/cfd-python-class/raw/master/lessons/11%2520-%2520Defining%2520Function%2520in%2520Python.ipynb) by Lorena Barba
 * [ipython](http://ipython.org/)
 * [Python doc on the web](https://wiki.python.org/moin/BeginnersGuide/Programmers)
@@ -38,5 +45,7 @@ This repository collects the material to the class 5AG07
 * http://www.brown.edu/Departments/Engineering/Courses/En221/Notes/notes.html
 
 # Version control
+* https://github.com/numerical-mooc/numerical-mooc/blob/master/lessons/00_getting_started/00_04_Intro_to_git.md
 * https://git-scm.com/videos
 * https://rogerdudler.github.io/git-guide/index.fr.html
+
