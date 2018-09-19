@@ -43,9 +43,11 @@
 * [A collection of classical paper on FEM](http://www.ewp.rpi.edu/hartford/~ernesto/Su2014/Korea-PW/StressAnalysis/Readings/Other/ClassicPapers-FEM/)
 
 ## Continuum mechanics and elasticity ##
-* http://solidmechanics.org/ (e.g. http://solidmechanics.org/text/Chapter3_2/Chapter3_2.htm)
-* MMC (1D) by J.J. Marigo: https://cel.archives-ouvertes.fr/cel-01023392
+* [Continuum mechanics (1D) by J.J. Marigo Jean-Jacques Marigo](https://cel.archives-ouvertes.fr/cel-01023392)
 * http://www.brown.edu/Departments/Engineering/Courses/En221/Notes/notes.html
+* [Elasticity and fracture, Jean-Jacques Marigo](https://moodle.polytechnique.fr/pluginfile.php/30014/mod_resource/content/1/ElasticiteRupture.pdf)
+* [Plasticity and fracture, Pierre Suquet](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjdspXjqcfdAhXLA8AKHVHjBHIQFjAAegQIBxAC&url=http%3A%2F%2Fperso.ensta-paristech.fr%2F~mbonnet%2Fmec551%2Fmec551.pdf&usg=AOvVaw3JK3d0dJbSyeduYs3DCsqU)
+* http://solidmechanics.org/ (e.g. http://solidmechanics.org/text/Chapter3_2/Chapter3_2.htm)
 
 # Version control
 * https://github.com/numerical-mooc/numerical-mooc/blob/master/lessons/00_getting_started/00_04_Intro_to_git.md
