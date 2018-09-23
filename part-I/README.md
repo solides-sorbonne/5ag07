@@ -1,11 +1,12 @@
 # I - Finite Element Methods for Linear Problems
 
-## Cours 1 (25/09/2017)
+## Cours 1 (26/09/2018)
 * Verification and validation
 * Variational formulations and Galerkin approximations
 * The basic steps and concepts of a finite element program
 * Lagrange finite element in 1D: Basis function assembling, boundary conditions
 * Linear Elasticity: variational formulation and finite element
+* The use of dimensionless parameters: the case of linear elasticity
 * Approximate representation of functions in a FE space: interpolation and projection
 * Measuring a function: norms
 * Errors and convergence analysis
