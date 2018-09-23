@@ -1,18 +1,17 @@
 # 5AG07 - Introduction aux calculs non linéaires de structures par éléments finis
-This repository collects the material to the class 5AG07 
 
-* Some links to online resources [here](LINKS.md)
+This repository collects the material to the class 5AG07 at Sorbonne Université
 
-To use git and fenics in the classroom:
+* Teachers:
 
-1. At the command line
-```
-subl $HOME/.bashrc
-```
-Then add these lines in the file opened and save (modify with your student number and password
+    * Sébastien Brisard
 
-```
-export PATH=/opt/fenics/hashstack/fenics-2016.1-sl72/bin/:$PATH
-git config --global  http.proxy https://studentnumber:password@134.157.103.2:3128
-export https_proxy=https://studentnumber:password@134.157.103.2:3128
-```
+    * Arnaud Lazarus (arnaud.lazarus@sorbonne-universite.fr)
+
+    * Corrado Maurini (corrado.maurini@sorbonne-universite.fr)
+
+* You can find some links to online resources in the file [LINKS.md](LINKS.md)
+
+* You can find insdication on how to install and use FEniCS in [INSTALL.md](INSTALL.md)
+
+
