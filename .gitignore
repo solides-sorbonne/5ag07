@@ -359,3 +359,9 @@ TSWLatexianTemp*
 
 # standalone packages
 *.sta
+
+#Output
+*.h5
+*.xdmf
+*.pvd
+*.vtu
