@@ -41,7 +41,7 @@ I strongly suggest to read this book by Szabo and Babuska:
        * [Chapters_78.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Chapters_78.pdf)
        * [AppendixAB.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Appendices_AB.pdf)
        * [AppendixC.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Appendix_C.pdf)
-       You can look also to
+You can look also to
 * http://antoinelegay.free.fr/Calcul_des_structures_par_elements_finis_Legay.pdf
 * http://www.colorado.edu/engineering/cas/courses.d/NFEM.d/
 And this interesting for special topics:
