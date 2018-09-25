@@ -1,7 +1,7 @@
 
-# Useful references
+You find below some useful online references classified by topic
 
-## Python ##
+# Python 
 
 ### Getting started
 * [**Python crash course**](http://nbviewer.ipython.org/github/barbagroup/AeroPython/blob/master/lessons/00_Lesson00_QuickPythonIntro.ipynb) by Lorena Barba
@@ -30,7 +30,7 @@
 * https://learnxinyminutes.com/docs/python3/
 * http://jrjohansson.github.io/numericalpython.html
 
-## FEM ##
+# FEM 
 I strongly suggest to read this book by Szabo and Babuska:
 * https://classes.engineering.wustl.edu/2009/fall/mase5510 and in particular: 
 [Chapters_12.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Chapters_12.pdf),
@@ -47,7 +47,7 @@ You can look also to
 * http://www.colorado.edu/engineering/cas/courses.d/NFEM.d/
 
 
-## Continuum mechanics and elasticity ##
+# Continuum mechanics and elasticity ##
 * [Continuum mechanics (1D) by J.J. Marigo Jean-Jacques Marigo](https://cel.archives-ouvertes.fr/cel-01023392)
 * http://www.brown.edu/Departments/Engineering/Courses/En221/Notes/notes.html
 * [Elasticity and fracture, Jean-Jacques Marigo](https://moodle.polytechnique.fr/pluginfile.php/30014/mod_resource/content/1/ElasticiteRupture.pdf)
@@ -58,4 +58,12 @@ You can look also to
 * https://github.com/numerical-mooc/numerical-mooc/blob/master/lessons/00_getting_started/00_04_Intro_to_git.md
 * https://git-scm.com/videos
 * https://rogerdudler.github.io/git-guide/index.fr.html
+
+# FEniCS
+* Website https://fenicsproject.org
+* Documentation
+       1. First this tutorial, Chap 2 being the good starting point: https://fenicsproject.org/pub/tutorial/pdf/fenics-tutorial-vol1.pdf
+       2. https://fenics.readthedocs.io/en/latest/
+       3. https://fenicsproject.org/docs/dolfin/2018.1.0/python/
+       3. Source https://bitbucket.org/fenics-project/dolfin/src/master/
 
