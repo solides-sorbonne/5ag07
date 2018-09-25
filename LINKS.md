@@ -2,14 +2,16 @@
 # Useful references
 
 ## Python ##
-### Getting started
-* https://github.com/numerical-mooc/numerical-mooc/blob/master/lessons/00_getting_started/00_02_Installing_Jupyter.md
-* https://github.com/numerical-mooc/numerical-mooc/blob/master/lessons/00_getting_started/00_03_Intro_to_Jupyter_notebook.md
-* [**Python crash course**](http://nbviewer.ipython.org/github/barbagroup/AeroPython/blob/master/lessons/00_Lesson00_QuickPythonIntro.ipynb) by Lorena Barba
 
+### Getting started
+* [**Python crash course**](http://nbviewer.ipython.org/github/barbagroup/AeroPython/blob/master/lessons/00_Lesson00_QuickPythonIntro.ipynb) by Lorena Barba
 * http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-0-Scientific-Computing-with-Python.ipynb
 * http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-1-Introduction-to-Python-Programming.ipynb
 * http://cs231n.github.io/python-numpy-tutorial/
+
+### About Jupyter notebook 
+* https://github.com/numerical-mooc/numerical-mooc/blob/master/lessons/00_getting_started/00_02_Installing_Jupyter.md
+* https://github.com/numerical-mooc/numerical-mooc/blob/master/lessons/00_getting_started/00_03_Intro_to_Jupyter_notebook.md
 
 ### Further references
 * https://scipy-lectures.github.io
@@ -29,8 +31,7 @@
 * http://jrjohansson.github.io/numericalpython.html
 
 ## FEM ##
-* http://antoinelegay.free.fr/Calcul_des_structures_par_elements_finis_Legay.pdf
-* http://www.colorado.edu/engineering/cas/courses.d/NFEM.d/
+I strongly suggest to read this book by Szabo and Babuska:
 * https://classes.engineering.wustl.edu/2009/fall/mase5510 and in particular:
        * [Chapters_12.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Chapters_12.pdf)
        * [Chapters_3.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Chapter_3.pdf)
@@ -40,6 +41,10 @@
        * [Chapters_78.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Chapters_78.pdf)
        * [AppendixAB.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Appendices_AB.pdf)
        * [AppendixC.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Appendix_C.pdf)
+       You can look also to
+* http://antoinelegay.free.fr/Calcul_des_structures_par_elements_finis_Legay.pdf
+* http://www.colorado.edu/engineering/cas/courses.d/NFEM.d/
+And this interesting for special topics:
 * [A collection of classical paper on FEM](http://www.ewp.rpi.edu/hartford/~ernesto/Su2014/Korea-PW/StressAnalysis/Readings/Other/ClassicPapers-FEM/)
 
 ## Continuum mechanics and elasticity ##
