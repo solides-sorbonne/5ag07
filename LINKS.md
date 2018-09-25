@@ -46,8 +46,6 @@ You can look also to
 * http://antoinelegay.free.fr/Calcul_des_structures_par_elements_finis_Legay.pdf
 * http://www.colorado.edu/engineering/cas/courses.d/NFEM.d/
 
-And this interesting collection of papers  for special topics:
-* [A collection of classical paper on FEM](http://www.ewp.rpi.edu/hartford/~ernesto/Su2014/Korea-PW/StressAnalysis/Readings/Other/ClassicPapers-FEM/)
 
 ## Continuum mechanics and elasticity ##
 * [Continuum mechanics (1D) by J.J. Marigo Jean-Jacques Marigo](https://cel.archives-ouvertes.fr/cel-01023392)
