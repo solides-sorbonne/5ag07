@@ -46,6 +46,8 @@ You can look also to
 * http://antoinelegay.free.fr/Calcul_des_structures_par_elements_finis_Legay.pdf
 * http://www.colorado.edu/engineering/cas/courses.d/NFEM.d/
 
+This quite complete book by Peter Wriggers (Nonlinear finite element) is available in pdf form with your unviersity account: 
+* https://link.springer.com/content/pdf/10.1007%2F978-3-540-71001-1.pdf
 
 # Continuum mechanics and elasticity ##
 * [Continuum mechanics (1D) by J.J. Marigo Jean-Jacques Marigo](https://cel.archives-ouvertes.fr/cel-01023392)
