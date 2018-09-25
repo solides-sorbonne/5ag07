@@ -32,15 +32,15 @@
 
 ## FEM ##
 I strongly suggest to read this book by Szabo and Babuska:
-* https://classes.engineering.wustl.edu/2009/fall/mase5510 and in particular:
-      * [Chapters_12.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Chapters_12.pdf)
-      * [Chapters_3.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Chapter_3.pdf)
-      * [Chapters_4.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Chapter_4.pdf)
-      * [Chapters_5.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Chapter_5.pdf)
-      * [Chapters_6.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Chapter_6.pdf)
-      * [Chapters_78.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Chapters_78.pdf)
-      * [AppendixAB.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Appendices_AB.pdf)
-      * [AppendixC.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Appendix_C.pdf)
+* https://classes.engineering.wustl.edu/2009/fall/mase5510 and in particular: 
+[Chapters_12.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Chapters_12.pdf),
+[Chapters_3.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Chapter_3.pdf),
+[Chapters_4.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Chapter_4.pdf),
+[Chapters_5.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Chapter_5.pdf),
+[Chapters_6.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Chapter_6.pdf),
+[Chapters_78.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Chapters_78.pdf),
+[AppendixAB.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Appendices_AB.pdf),
+[AppendixC.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Appendix_C.pdf)
        
 You can look also to
 * http://antoinelegay.free.fr/Calcul_des_structures_par_elements_finis_Legay.pdf
