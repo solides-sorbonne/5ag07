@@ -62,8 +62,8 @@ You can look also to
 # FEniCS
 * Website https://fenicsproject.org
 * Documentation
-       1. First this tutorial, Chap 2 being the good starting point: https://fenicsproject.org/pub/tutorial/pdf/fenics-tutorial-vol1.pdf
-       2. https://fenics.readthedocs.io/en/latest/
-       3. https://fenicsproject.org/docs/dolfin/2018.1.0/python/
-       3. Source https://bitbucket.org/fenics-project/dolfin/src/master/
+   1. First this tutorial, Chap 2 being the good starting point: https://fenicsproject.org/pub/tutorial/pdf/fenics-tutorial-vol1.pdf
+   2. https://fenics.readthedocs.io/en/latest/
+   3. https://fenicsproject.org/docs/dolfin/2018.1.0/python/
+   4. Source https://bitbucket.org/fenics-project/dolfin/src/master/
 
