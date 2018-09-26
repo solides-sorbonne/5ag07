@@ -365,3 +365,4 @@ TSWLatexianTemp*
 *.xdmf
 *.pvd
 *.vtu
+*/output/*
