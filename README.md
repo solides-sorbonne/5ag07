@@ -4,7 +4,7 @@ This repository collects the material to the class 5AG07 at Sorbonne Université
 
 * Teachers:
 
-    * Sébastien Brisard
+    * Sébastien Brisard (https://navier.enpc.fr/BRISARD-Sebastien)
 
     * Arnaud Lazarus (arnaud.lazarus@sorbonne-universite.fr)
 

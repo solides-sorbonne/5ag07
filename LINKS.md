@@ -1,19 +1,19 @@
 
 You find below some useful online references classified by topic
 
-# Python 
+# Python
 
-### Getting started
+## Getting started
 * [**Python crash course**](http://nbviewer.ipython.org/github/barbagroup/AeroPython/blob/master/lessons/00_Lesson00_QuickPythonIntro.ipynb) by Lorena Barba
 * http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-0-Scientific-Computing-with-Python.ipynb
 * http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-1-Introduction-to-Python-Programming.ipynb
 * http://cs231n.github.io/python-numpy-tutorial/
 
-### About Jupyter notebook 
+## About Jupyter notebook
 * https://github.com/numerical-mooc/numerical-mooc/blob/master/lessons/00_getting_started/00_02_Installing_Jupyter.md
 * https://github.com/numerical-mooc/numerical-mooc/blob/master/lessons/00_getting_started/00_03_Intro_to_Jupyter_notebook.md
 
-### Further references
+## Further references
 * https://scipy-lectures.github.io
 * https://github.com/jrjohansson/scientific-python-lectures
 * http://cs231n.github.io/python-numpy-tutorial/
@@ -30,9 +30,9 @@ You find below some useful online references classified by topic
 * https://learnxinyminutes.com/docs/python3/
 * http://jrjohansson.github.io/numericalpython.html
 
-# FEM 
+# FEM
 I strongly suggest to read this book by Szabo and Babuska:
-* https://classes.engineering.wustl.edu/2009/fall/mase5510 and in particular: 
+* https://classes.engineering.wustl.edu/2009/fall/mase5510 and in particular:
 [Chapters_12.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Chapters_12.pdf),
 [Chapters_3.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Chapter_3.pdf),
 [Chapters_4.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Chapter_4.pdf),
@@ -41,12 +41,12 @@ I strongly suggest to read this book by Szabo and Babuska:
 [Chapters_78.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Chapters_78.pdf),
 [AppendixAB.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Appendices_AB.pdf),
 [AppendixC.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Appendix_C.pdf)
-       
+
 You can look also to
 * http://antoinelegay.free.fr/Calcul_des_structures_par_elements_finis_Legay.pdf
 * http://www.colorado.edu/engineering/cas/courses.d/NFEM.d/
 
-This quite complete book by Peter Wriggers (Nonlinear finite element) is freely available in pdf form with your university account: 
+This quite complete book by Peter Wriggers (Nonlinear finite element) is freely available in pdf form with your university account:
 * https://link.springer.com/content/pdf/10.1007%2F978-3-540-71001-1.pdf
 
 # Continuum mechanics and elasticity ##
