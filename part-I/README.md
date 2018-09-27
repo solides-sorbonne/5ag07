@@ -38,8 +38,8 @@ In parentheses you can find indication of the sources where you can find the mat
         
         [2] FEniCS Tutorial: https://fenicsproject.org/pub/tutorial/pdf/fenics-tutorial-vol1.pdf
         
-        [3] A collection of classical paper on FEM: http://www.ewp.rpi.edu/hartford/~ernesto/Su2014/Korea-PW/StressAnalysis/Readings/Other/ClassicPapers-FEM/
-    
+        [3] Peter Wriggers, Nonlinear Finite Element Methods, Springer: https://link.springer.com/book/10.1007/978-3-540-71001-1 (free access with the university account)
+        
     * Slides
     
     * Notebooks
