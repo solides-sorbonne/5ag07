@@ -366,3 +366,5 @@ TSWLatexianTemp*
 *.pvd
 *.vtu
 */output/*
+
+*/jitfailure*
