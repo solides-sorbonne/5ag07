@@ -68,4 +68,6 @@ This quite complete book by Peter Wriggers (Nonlinear finite element) is freely 
    2. https://fenics.readthedocs.io/en/latest/
    3. https://fenicsproject.org/docs/dolfin/2018.1.0/python/
    4. Source https://bitbucket.org/fenics-project/dolfin/src/master/
+   5. Examples of application to solid mechanics by Jeremy Bleyer: https://comet-fenics.readthedocs.io/
+ 
 
