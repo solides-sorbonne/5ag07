@@ -7,7 +7,7 @@ At the command line open your `.bashrc` file in a text editor
 ```
 subl $HOME/.bashrc
 ```
-Then add these lines in the file opened and save (modify with your student number and password
+Then add these lines in the file  and save (modify with your student number and password)
 
 ```
 git config --global  http.proxy https://studentnumber:password@134.157.103.2:3128
