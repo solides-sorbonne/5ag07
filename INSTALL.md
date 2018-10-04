@@ -10,9 +10,9 @@ subl $HOME/.bashrc
 Then add these lines in the file opened and save (modify with your student number and password
 
 ```
-export PATH=/opt/fenics/hashstack/fenics-2016.1-sl72/bin/:$PATH
 git config --global  http.proxy https://studentnumber:password@134.157.103.2:3128
 export https_proxy=https://studentnumber:password@134.157.103.2:3128
+source /opt/fenics-2018.1/activate-fenics-2018.1.sh
 ```
 
 
