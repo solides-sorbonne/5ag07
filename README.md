@@ -14,4 +14,5 @@ This repository collects the material to the class 5AG07 at Sorbonne Université
 
 * You can find insdication on how to install and use FEniCS in [INSTALL.md](INSTALL.md)
 
+* TO create your team for CR1: https://classroom.github.com/g/u3ck1a3W
 
