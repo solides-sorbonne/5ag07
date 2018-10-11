@@ -1,6 +1,5 @@
 
 You find below some useful online references classified by topic
-
 # Python
 
 ## Getting started
