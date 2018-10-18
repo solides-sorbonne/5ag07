@@ -42,6 +42,7 @@ I strongly suggest to read this book by Szabo and Babuska:
 [AppendixC.pdf](https://classes.engineering.wustl.edu/2009/fall/mase5510/Appendix_C.pdf)
 
 You can look also to
+* A. Ern Theory and Pratice of Finite Element (free dowloand with upmc account https://link.springer.com/book/10.1007/978-1-4757-4355-5)
 * http://antoinelegay.free.fr/Calcul_des_structures_par_elements_finis_Legay.pdf
 * http://www.colorado.edu/engineering/cas/courses.d/NFEM.d/
 
