@@ -1,7 +1,7 @@
 
 # Part II - Computational Methods for Non Linear Problems
 
-## Cours 1 (09/10/2017) - Computation of 1dof nonlinear systems
+## Cours 1 - Computation of 1dof nonlinear systems
 - Introduction to the concept of Nonlinearity in Solids
 - Archetypal examples of nonlinearities:
     - Geometric nonlinearities
@@ -9,7 +9,7 @@
     - Contact, etc..
 - Introduction to the Newton-Raphson method
 
-## Cours 2 (16/10/2017) - Computation of N dofs nonlinear systems
+## Cours 2 - Computation of N dofs nonlinear systems
 - Nonlinear systems of algebraic equations
 - Newton-Raphson methods for systems of algebraic equations.
 - Minimization of an energy functional.
