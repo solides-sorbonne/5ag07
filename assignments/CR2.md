@@ -1,4 +1,9 @@
 # Report 2: Solution of nonlinear quasi-static problems
+
+Choose your project here:
+
+https://goo.gl/forms/dwmxSOg5TTuzJrtw2
+
 In the report you should discuss through an example the following essential
 points treated in the second and third parts of the course
 
@@ -42,4 +47,6 @@ FE analysis and an hyperelastic material model
   - There is not a specific requirement on the length of the manuscript. It should as short as possible to communicate all important information you want to put in the report. 
   - We will evaluate the quality of the presentation (language, typesetting, and figures). Being able to effectively communicate your results is important for your future.
   - We require you to be able to use git at least to push your data to the repository. This is the main reason why we ask to submit your CR on the github platform. We will not accept submissions by mail.
+  
+
       
